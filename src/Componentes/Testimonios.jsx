@@ -14,8 +14,8 @@ const CarruselActive = () => {
                 </div>
               </div>
             </div>
-            <Carrusel imagene={imagenes.Cliente2} Alt='cliente2' nombreDelTestigo='Cristhian Barrios' profesion='Ingeniero en sistema' Testigos='Tiene una mente creativa y habilidad para pensar fuera de lo convencional te distinguen. Siempre aportas ideas frescas y soluciones originales a los desafíos que enfrentas. Tus enfoques innovadores y tu disposición a explorar nuevas posibilidades inspiran a los demás y generan un ambiente de creatividad y progreso.'></Carrusel>
-            <Carrusel imagene={imagenes.Cliente3} Alt='cliente3' nombreDelTestigo='Rosa Peralta' profesion='Enfermera Jefe' Testigos='Eres conocido por tu naturaleza amable y disposición para ayudar a los demás. Siempre estás dispuesto a brindar apoyo, ya sea en proyectos académicos, en problemas personales o simplemente para escuchar. Tu actitud solidaria y empática te hace destacar como alguien en quien se puede confiar y contar.'></Carrusel>
+            <Carrusel imagene={imagenes.Cliente3} Alt='cliente2' nombreDelTestigo='Cristhian Barrios' profesion='Ingeniero en sistema' Testigos='Tiene una mente creativa y habilidad para pensar fuera de lo convencional te distinguen. Siempre aportas ideas frescas y soluciones originales a los desafíos que enfrentas. Tus enfoques innovadores y tu disposición a explorar nuevas posibilidades inspiran a los demás y generan un ambiente de creatividad y progreso.'></Carrusel>
+            <Carrusel imagene={imagenes.Cliente2} Alt='cliente3' nombreDelTestigo='Rosa Peralta' profesion='Enfermera Jefe' Testigos='Eres conocido por tu naturaleza amable y disposición para ayudar a los demás. Siempre estás dispuesto a brindar apoyo, ya sea en proyectos académicos, en problemas personales o simplemente para escuchar. Tu actitud solidaria y empática te hace destacar como alguien en quien se puede confiar y contar.'></Carrusel>
                 
         </div>    
     )
