@@ -11,6 +11,7 @@ import Cliente1 from '../imagenes/cliente1.svg'
 import Cliente2 from '../imagenes/cliente2.svg'
 import Cliente3 from '../imagenes/cliente3.svg'
 import LogoContacto from '../imagenes/icono-blanco.svg'
+import tienda from '../imagenes/tienda.jpg'
 
 export default {
   'IconNav': iconoNav,
@@ -25,6 +26,7 @@ export default {
    'Cliente1' : Cliente1,
    'Cliente2' : Cliente2,
    'Cliente3' : Cliente3,
-   'LogoContacto' : LogoContacto
+   'LogoContacto' : LogoContacto,
+   'tienda': tienda
    
 }

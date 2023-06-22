@@ -37,7 +37,8 @@ export default function Proyectos () {
         <Proyect UrlImg={imagenes.Proyect4}alt='proyecto 4' nameProyect='Cuestionario' DireccionProyectRepo='https://github.com/AldairZambrano/cuestionario.github.io-' DireccionProyectweb='https://aldairzambrano.github.io/cuestionario.github.io-/'></Proyect>
         <Proyect  UrlImg={imagenes.Proyect5} alt='proyecto 5' nameProyect='Portafolio' DireccionProyectRepo='https://github.com/AldairZambrano/PortafolioReact.js' DireccionProyectweb='https://portafolio-ajzp.netlify.app/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect6} alt='proyecto 6' nameProyect='Calculadora' DireccionProyectRepo='https://github.com/AldairZambrano/Calculadora' DireccionProyectweb='https://calculadorazam.netlify.app/'></Proyect>
-         </div>
+        <Proyect UrlImg={imagenes.tienda} alt='proyecto 7' nameProyect='Tienda fast food' DireccionProyectRepo='https://github.com/AldairZambrano/Tienda' DireccionProyectweb='https://tienda-fast-foot.netlify.app/'></Proyect>
+        </div>
       </div>
       <a href="https://github.com/AldairZambrano" target="_blank" rel="noopener noreferrer">
         <button type="button" className="btn btn-info">
