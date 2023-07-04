@@ -1,4 +1,4 @@
-import '../Estilos.css/BarraNavegacion.css'
+import '../style/BarraNavegacion.css'
 import imagenes from './imagenes'
 export default function BarraNavegacion () {
 

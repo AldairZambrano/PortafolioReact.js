@@ -1,4 +1,4 @@
-import '../Estilos.css/Experiencia.css'
+import '../style/Experiencia.css'
 
 const Cardexperienced = ({titulo,parrafo,habilidad,habilidad1,habilidad2,habilidad3,icon}) =>{
   return (
@@ -22,7 +22,7 @@ export default function Experiencia () {
       <div className="container text-center">
         <div className="row">
            {/* Desarrollo Web  */}
-           <Cardexperienced icon='bi bi-laptop' titulo='Desarrollo Web y aplicaciones web' parrafo='¡Hola! Permíteme presentarme, soy un desarrollador web y creador de aplicaciones web. Me apasiona el mundo de la tecnología y la programación, y he encontrado en el desarrollo web una forma de convertir esa pasión en una carrera.' habilidad='HTML' habilidad2='CSS' habilidad3='JAVASCRIPT' habilidad1='REACT.JS'></Cardexperienced>
+           <Cardexperienced icon='bi bi-gear' titulo='Herramientas' parrafo='Soy un apasionado desarrollador de software con experiencia en una amplia gama de tecnologías web, incluyendo React.js, HTML, CSS, JavaScript y PHP, entre otras. Mi enfoque principal se centra en la construcción de interfaces de usuario modernas y dinámicas utilizando React.js y otras herramientas de desarrollo de front-end.' habilidad='HTML' habilidad2='CSS' habilidad3='JAVASCRIPT' habilidad1='REACT.JS'></Cardexperienced>
           {/* Articulos */}
            <Cardexperienced icon='bi bi-hourglass-split' titulo='Pasatiempo' parrafo='Tengo una dedicación al deporte, un enfoque en la educación y una habilidad para la creación de aplicaciones web. Son intereses versátiles y muestran mi disposición para desarrollar habilidades tanto físicas como intelectuales.' habilidad='Estudiar' habilidad1='Crear' habilidad2='Jugar'></Cardexperienced>
          {/*  Estudiante */}

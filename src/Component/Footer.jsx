@@ -1,4 +1,4 @@
-import '../Estilos.css/Footer.css'
+import '../style/Footer.css'
 import imagenes from './imagenes'
 
 const IconosRedes = ({direccion,icono}) => {

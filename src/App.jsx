@@ -1,10 +1,10 @@
-import BarraNavegacion from './Componentes/BarraNavegacion'
-import Hero from './Componentes/Hero'
-import Experiencia from './Componentes/Experiencia'
-import Proyectos from './Componentes/Proyectos'
-import Testimonios from './Componentes/Testimonios'
-import Footer from './Componentes/Footer'
-import ScrollToTopButton from './Componentes/BotonDeSubir'
+import BarraNavegacion from './Component/BarraNavegacion'
+import Hero from './Component/Hero'
+import Experiencia from './Component/Experiencia'
+import Proyectos from './Component/Proyectos'
+import Testimonios from './Component/Testimonios'
+import Footer from './Component/Footer'
+import ScrollToTopButton from './Component/BotonDeSubir'
 import './App.css'
 
 // sobre mi

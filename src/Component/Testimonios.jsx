@@ -1,5 +1,5 @@
 import imagenes from "./imagenes"
-import '../Estilos.css/Testimonio.css'
+import '../style/Testimonio.css'
 
 const CarruselActive = () => {
     return (
