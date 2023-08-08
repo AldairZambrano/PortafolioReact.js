@@ -5,6 +5,7 @@ import Proyectos from './Component/Proyectos'
 import Testimonios from './Component/Testimonios'
 import Footer from './Component/Footer'
 import ScrollToTopButton from './Component/BotonDeSubir'
+import Titulo from './Component/Titulos'
 import './App.css'
 
 // sobre mi
@@ -56,6 +57,7 @@ function App() {
        <SobreMi></SobreMi>
        <Experiencia></Experiencia>
        <Proyectos></Proyectos>
+       <Titulo></Titulo>
        <Testimonios></Testimonios>
        <Contactos></Contactos>
        <Footer></Footer>
