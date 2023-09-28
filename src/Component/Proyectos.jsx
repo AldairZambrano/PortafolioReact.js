@@ -13,7 +13,7 @@ return(
             <i className="bi bi-github"></i>
           </a>
           <a href={DireccionProyectweb} target="_blank" rel="noopener noreferrer">
-            <i className="bi bi-laptop"></i>
+          <i className="bi bi-globe2"></i>
           </a>
         </div>
       </div>
@@ -36,6 +36,7 @@ export default function Proyectos () {
         <Proyect UrlImg={imagenes.tienda} alt='proyecto 7' nameProyect='Tienda fast food' DireccionProyectRepo='https://github.com/AldairZambrano/Tienda' DireccionProyectweb='https://tienda-fast-foot.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.tiendaderopa} alt='proyecto 8' nameProyect='Tienda de Ropa' DireccionProyectRepo='https://github.com/AldairZambrano/tiendaderopa' DireccionProyectweb='https://aldairzambrano.github.io/tiendaderopa/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect3} alt='proyecto 3' nameProyect='CV' DireccionProyectRepo='https://github.com/AldairZambrano/aldairzambrano.github.io' DireccionProyectweb='https://aldairzambrano.github.io/'></Proyect>
+        <Proyect UrlImg={imagenes.admiImv} alt='proyecto 9' nameProyect='admi-imv' DireccionProyectRepo='https://github.com/AldairZambrano/admi-imv' DireccionProyectweb='https://admi-imv.netlify.app/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect1} alt='proyecto 1' nameProyect='Ranchera' DireccionProyectRepo='https://github.com/AldairZambrano/rancheras.github.io' DireccionProyectweb='https://aldairzambrano.github.io/rancheras.github.io/#how-it-works'></Proyect>
         <Proyect UrlImg={imagenes.Proyect2} alt='proyecto 2' nameProyect='Homenaje' DireccionProyectRepo='https://github.com/AldairZambrano/tribute_page.github.io' DireccionProyectweb=' https://aldairzambrano.github.io/tribute_page.github.io/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect4}alt='proyecto 4' nameProyect='Cuestionario' DireccionProyectRepo='https://github.com/AldairZambrano/cuestionario.github.io-' DireccionProyectweb='https://aldairzambrano.github.io/cuestionario.github.io-/'></Proyect>
