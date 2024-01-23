@@ -33,7 +33,7 @@ export default function Proyectos () {
          {/* primer proyecto */}
         <Proyect  UrlImg={imagenes.Proyect5} alt='proyecto 5' nameProyect='Portafolio' DireccionProyectRepo='https://github.com/AldairZambrano/PortafolioReact.js' DireccionProyectweb='https://portafolio-ajzp.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.Camara} alt='proyecto 10' nameProyect='Camara' DireccionProyectRepo='https://github.com/AldairZambrano/Camara' DireccionProyectweb='https://zippy-twilight-99a722.netlify.app/'></Proyect>
-        <Proyect UrlImg={imagenes.Proyect6} alt='proyecto 6' nameProyect='Calculadora' DireccionProyectRepo='https://github.com/AldairZambrano/Calculadora' DireccionProyectweb='https://calculadorazam.netlify.app/'></Proyect>
+        <Proyect UrlImg={imagenes.Proyect6} alt='proyecto 6' nameProyect='Calculadora' DireccionProyectRepo='https://github.com/AldairZambrano/Calculadorapro' DireccionProyectweb='https://calculadora-plor.netlify.app/'></Proyect>
         <Proyect UrlImg={imagenes.tienda} alt='proyecto 7' nameProyect='Tienda fast food' DireccionProyectRepo='https://github.com/AldairZambrano/Tienda' DireccionProyectweb='https://tienda-fast-foot.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.tiendaderopa} alt='proyecto 8' nameProyect='Tienda de Ropa' DireccionProyectRepo='https://github.com/AldairZambrano/tiendaderopa' DireccionProyectweb='https://aldairzambrano.github.io/tiendaderopa/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect3} alt='proyecto 3' nameProyect='CV' DireccionProyectRepo='https://github.com/AldairZambrano/aldairzambrano' DireccionProyectweb='https://aldairzambrano.github.io/aldairzambrano/'></Proyect>
