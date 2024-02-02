@@ -15,6 +15,7 @@ import tienda from '../img/tienda.jpg'
 import tiendaderopa from '../img/tiendaderopa.jpg'
 import admiImv from '../img/admi-imv.jpg'
 import camara from '../img/camara.jpg'
+import tic from '../img/tic.png'
 
 export default {
   'IconNav': iconoNav,
@@ -34,5 +35,6 @@ export default {
    'tiendaderopa': tiendaderopa,
    'admiImv': admiImv,
    'Camara': camara,
+   'TIC': tic,
    
 }

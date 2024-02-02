@@ -1,6 +1,7 @@
 import imagenes from "./imagenes"
 import '../style/Proyectos.css'
 
+// eslint-disable-next-line react/prop-types
 const Proyect = ({UrlImg,alt, nameProyect, DireccionProyectRepo,DireccionProyectweb}) => {
 return(
     <div className="col-12 col-md-6 col-lg-4">
@@ -32,6 +33,7 @@ export default function Proyectos () {
         
          {/* primer proyecto */}
         <Proyect  UrlImg={imagenes.Proyect5} alt='proyecto 5' nameProyect='Portafolio' DireccionProyectRepo='https://github.com/AldairZambrano/PortafolioReact.js' DireccionProyectweb='https://portafolio-ajzp.netlify.app/'></Proyect>
+        <Proyect  UrlImg={imagenes.TIC} alt='proyecto 11' nameProyect='Tic tac toe' DireccionProyectRepo='https://github.com/AldairZambrano/tic-tac-toe' DireccionProyectweb='https://tic-tac-toei.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.Camara} alt='proyecto 10' nameProyect='Camara' DireccionProyectRepo='https://github.com/AldairZambrano/Camara' DireccionProyectweb='https://zippy-twilight-99a722.netlify.app/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect6} alt='proyecto 6' nameProyect='Calculadora' DireccionProyectRepo='https://github.com/AldairZambrano/Calculadorapro' DireccionProyectweb='https://calculadora-plor.netlify.app/'></Proyect>
         <Proyect UrlImg={imagenes.tienda} alt='proyecto 7' nameProyect='Tienda fast food' DireccionProyectRepo='https://github.com/AldairZambrano/Tienda' DireccionProyectweb='https://tienda-fast-foot.netlify.app/'></Proyect>
