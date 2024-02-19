@@ -1,5 +1,5 @@
 import iconoNav from '../img/icono.png'
-import User from '../img/imagenes-desarrolladores/Aldair.jpg'
+import User from '../img/imagenes-desarrolladores/Aldair.jpeg'
 import Monitor from '../img/hero-inferior.svg'
 import Proyect1 from '../img/proyecto1.png'
 import Proyect2 from '../img/proyecto2.png'

@@ -1,6 +1,7 @@
 import '../style/Footer.css'
 import imagenes from './imagenes'
 
+// eslint-disable-next-line react/prop-types
 const IconosRedes = ({direccion,icono}) => {
     return(
         <a href={direccion} target="_blank" rel="noopener noreferrer">

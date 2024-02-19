@@ -1,12 +1,13 @@
 import '../style/Experiencia.css'
 
+// eslint-disable-next-line react/prop-types
 const Cardexperienced = ({titulo,parrafo,habilidad,habilidad1,habilidad2,habilidad3,icon}) =>{
   return (
     <div className="columna col-12 col-md-4">
     <i className={icon}></i>
     <p className="experiencia-titulo">{titulo}</p>
     <p>{parrafo}</p>
-    <div class="badges-contenedor">
+    <div className="badges-contenedor">
       <span className="badge text-bg-primary">{habilidad}</span>
       <span className="badge text-bg-primary">{habilidad1}</span>
       <span className="badge text-bg-primary">{habilidad2}</span>
