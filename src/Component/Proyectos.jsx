@@ -32,6 +32,7 @@ export default function Proyectos () {
         <div className="row">
         
          {/* primer proyecto */}
+        <Proyect  UrlImg={imagenes.random} alt='proyecto 33' nameProyect='Random Quote Machine' DireccionProyectRepo='https://github.com/AldairZambrano/Random-' DireccionProyectweb='https://random-alda.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.Proyect5} alt='proyecto 5' nameProyect='Portafolio' DireccionProyectRepo='https://github.com/AldairZambrano/PortafolioReact.js' DireccionProyectweb='https://portafolio-ajzp.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.TIC} alt='proyecto 11' nameProyect='Tic tac toe' DireccionProyectRepo='https://github.com/AldairZambrano/tic-tac-toe' DireccionProyectweb='https://tic-tac-toei.netlify.app/'></Proyect>
         <Proyect  UrlImg={imagenes.Camara} alt='proyecto 10' nameProyect='Camara' DireccionProyectRepo='https://github.com/AldairZambrano/Camara' DireccionProyectweb='https://zippy-twilight-99a722.netlify.app/'></Proyect>

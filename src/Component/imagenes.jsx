@@ -16,25 +16,26 @@ import tiendaderopa from '../img/tiendaderopa.jpg'
 import admiImv from '../img/admi-imv.jpg'
 import camara from '../img/camara.jpg'
 import tic from '../img/tic.png'
+import random from '../img/Random.png'
 
 export default {
   'IconNav': iconoNav,
-   'User' : User,
-   'Monitor' : Monitor,
-   'Proyect1' : Proyect1,
-   'Proyect2' : Proyect2,
-   'Proyect3' : Proyect3,
-   'Proyect4' : Proyect4,
-   'Proyect5' : Proyect5,
-   'Proyect6' : Proyect6,
-   'Cliente1' : Cliente1,
-   'Cliente2' : Cliente2,
-   'Cliente3' : Cliente3,
-   'LogoContacto' : LogoContacto,
-   'tienda': tienda,
-   'tiendaderopa': tiendaderopa,
-   'admiImv': admiImv,
-   'Camara': camara,
-   'TIC': tic,
-   
+  'User' : User,
+  'Monitor' : Monitor,
+  'Proyect1' : Proyect1,
+  'Proyect2' : Proyect2,
+  'Proyect3' : Proyect3,
+  'Proyect4' : Proyect4,
+  'Proyect5' : Proyect5,
+  'Proyect6' : Proyect6,
+  'Cliente1' : Cliente1,
+  'Cliente2' : Cliente2,
+  'Cliente3' : Cliente3,
+  'LogoContacto' : LogoContacto,
+  'tienda': tienda,
+  'tiendaderopa': tiendaderopa,
+  'admiImv': admiImv,
+  'Camara': camara,
+  'TIC': tic,
+  'random' : random
 }
