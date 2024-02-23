@@ -1,8 +1,8 @@
 import iconoNav from '../img/icono.png'
 import User from '../img/imagenes-desarrolladores/Aldair.jpeg'
 import Monitor from '../img/hero-inferior.svg'
-import Proyect1 from '../img/proyecto1.png'
-import Proyect2 from '../img/proyecto2.png'
+import caja from '../img/caja_de_ritmo.png'
+import markdown from '../img/markdown.png'
 import Proyect3 from '../img/proyecto3.png'
 import Proyect4 from '../img/proyecto4.png'
 import Proyect5 from '../img/proyecto5.png'
@@ -17,13 +17,15 @@ import admiImv from '../img/admi-imv.jpg'
 import camara from '../img/camara.jpg'
 import tic from '../img/tic.png'
 import random from '../img/Random.png'
+import alarma from '../img/alarma.png'
 
 export default {
   'IconNav': iconoNav,
+  'alarma' : alarma,
   'User' : User,
   'Monitor' : Monitor,
-  'Proyect1' : Proyect1,
-  'Proyect2' : Proyect2,
+  'markdown': markdown,
+  'caja' : caja,
   'Proyect3' : Proyect3,
   'Proyect4' : Proyect4,
   'Proyect5' : Proyect5,

@@ -41,9 +41,9 @@ export default function Proyectos () {
         <Proyect  UrlImg={imagenes.tiendaderopa} alt='proyecto 8' nameProyect='Tienda de Ropa' DireccionProyectRepo='https://github.com/AldairZambrano/tiendaderopa' DireccionProyectweb='https://aldairzambrano.github.io/tiendaderopa/'></Proyect>
         <Proyect UrlImg={imagenes.Proyect3} alt='proyecto 3' nameProyect='CV' DireccionProyectRepo='https://github.com/AldairZambrano/aldairzambrano' DireccionProyectweb='https://aldairzambrano.github.io/aldairzambrano/'></Proyect>
         <Proyect UrlImg={imagenes.admiImv} alt='proyecto 9' nameProyect='admi-imv' DireccionProyectRepo='https://github.com/AldairZambrano/admi-imv' DireccionProyectweb='https://admi-imv.netlify.app/'></Proyect>
-        <Proyect UrlImg={imagenes.Proyect1} alt='proyecto 1' nameProyect='Ranchera' DireccionProyectRepo='https://github.com/AldairZambrano/rancheras.github.io' DireccionProyectweb='https://aldairzambrano.github.io/rancheras.github.io/#how-it-works'></Proyect>
-        <Proyect UrlImg={imagenes.Proyect2} alt='proyecto 2' nameProyect='Homenaje' DireccionProyectRepo='https://github.com/AldairZambrano/tribute_page.github.io' DireccionProyectweb=' https://aldairzambrano.github.io/tribute_page.github.io/'></Proyect>
-        <Proyect UrlImg={imagenes.Proyect4}alt='proyecto 4' nameProyect='Cuestionario' DireccionProyectRepo='https://github.com/AldairZambrano/cuestionario.github.io-' DireccionProyectweb='https://aldairzambrano.github.io/cuestionario.github.io-/'></Proyect>
+        <Proyect UrlImg={imagenes.caja} alt='proyecto 1' nameProyect='Caja de ritmo' DireccionProyectRepo='https://github.com/AldairZambrano/Drum-Machine' DireccionProyectweb='https://caja-ritmos.netlify.app/'></Proyect>
+        <Proyect UrlImg={imagenes.markdown} alt='proyecto 2' nameProyect='Markdown' DireccionProyectRepo='https://github.com/AldairZambrano/Markdown-previewer' DireccionProyectweb='https://markdown-aldair.netlify.app/'></Proyect>
+        <Proyect UrlImg={imagenes.alarma}alt='proyecto 4' nameProyect='alarma' DireccionProyectRepo='https://github.com/AldairZambrano/Build' DireccionProyectweb='https://alarma-ru.netlify.app/'></Proyect>
         </div>
       </div>
       <a href="https://github.com/AldairZambrano" target="_blank" rel="noopener noreferrer">
